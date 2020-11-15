@@ -1,0 +1,2 @@
+2020-11-14T18:35:05+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 8192 bytes) in C:\xampp\apps\wordpress\htdocs\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-orders-v2-controller.php on line 367
+
